@@ -1,6 +1,6 @@
-# 🧠 DataBricksOperation
+# DataBricksOperation
 
-## 📘 Overview  
+## Overview  
 This repository demonstrates practical data operations performed using **Databricks**, including:
 - Creating Delta tables from CSV data  
 - Performing SQL-based data summarization  
@@ -9,7 +9,7 @@ This repository demonstrates practical data operations performed using **Databri
 
 ---
 
-## ⚡ Key Notebooks
+## Key Notebooks
 
 ### 1. `SQL_DeltaTablePractice.ipynb`
 **Task:** Create a Delta table from an existing dataset using SQL.  
@@ -52,9 +52,9 @@ These queries power the **ETRM Dashboard visualizations** in Databricks SQL.
 
 ---
 
-## 📊 Interactive Dashboard  
+## Interactive Dashboard  
 Explore the **live interactive ETRM Dashboard** built in Databricks:  
-👉 [View Published Dashboard Here](https://dbc-51440d65-cd14.cloud.databricks.com/dashboardsv3/01f0b363d69f166cad9fddafff95e24d/published?o=2682693863009682)
+ [View Published Dashboard Here](https://dbc-51440d65-cd14.cloud.databricks.com/dashboardsv3/01f0b363d69f166cad9fddafff95e24d/published?o=2682693863009682)
 
 **Dashboard Visualizations:**
 - Daily Revenue Trend (Line Chart)  
@@ -77,7 +77,7 @@ DataBricksOperaion/
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. **Clone the repository**
    ```bash
@@ -91,8 +91,8 @@ etrm_sql_queries.sql
 etrm_alerts.ipynb
 Open the Dashboard using the published link above or within your Databricks workspace.
 
-👩‍💻 Author
+Author
 Preeti Sahani
 Exploring Data Engineering and Automation through Databricks Free Edition
 
-✨ “Learning by building, automating, and visualizing data.”
+“Learning by building, automating, and visualizing data.”
